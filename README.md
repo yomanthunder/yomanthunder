@@ -1,6 +1,6 @@
 👋 Hi, I’m @yomanthunder
 
-
+```
 A second-year B.Tech Student 👀 learning new stuff everyday 🚀
 🌱 I’m currently learning Ts,solidity,foundry,DSA
 
@@ -12,7 +12,7 @@ A second-year B.Tech Student 👀 learning new stuff everyday 🚀
 !!
 👩‍💼 Currently 🚀 focused on my career 🎯, not 🚫 interested in dating 💘.
 !!
-
+```
 <!---
 yomanthunder/yomanthunder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
