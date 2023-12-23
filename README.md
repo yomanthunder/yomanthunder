@@ -10,8 +10,6 @@ A second-year B.Tech Student 👀 learning new stuff everyday 🚀
 🎭 Other Hobbies : Books, Art, Food,mangs 
 📫 How to reach me, social media handles in bio (preferably insta)
 !!
-👩‍💼 Currently 🚀 focused on my career 🎯, not 🚫 interested in dating 💘.
-!!
 ```
 <!---
 yomanthunder/yomanthunder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
