@@ -1,13 +1,13 @@
-👋 Hi, I’m @yomanthunder
+👋 Hi, I’m Shrishvesh
 
 ```
 A second-year B.Tech Student 👀 learning new stuff everyday 🚀
-🌱 I’m currently learning Ts,solidity,foundry,DSA
+🌱 I’m currently learning improving my Cp(Cpmpetetive programming) Skill
 
-😶 Newbie opensource contributor
+😶 Intermediate opensource contributor
 👀 I’m interested in Blockchain 
 🎸 I love music, and learning guitar
-🎭 Other Hobbies : Books, Art, Food,mangs 
+🎭 Other Hobbies : Books, Art, Food,manga 
 📫 How to reach me, social media handles in bio (preferably insta)
 !!
 ```
