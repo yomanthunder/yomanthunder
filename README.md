@@ -12,7 +12,7 @@
 
 Languages: C++, Python, Rust, JavaScript
 
-Expertise: Open Source, DeFi, Low-Level Programming, Systems & Network Programming, Data Engineering
+Experience: Open Source, DeFi, Low-Level Programming, Systems & Network Programming, Data Engineering
 
 📫 Reach me via social media (preferably Telegram).
 
