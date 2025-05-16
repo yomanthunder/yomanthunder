@@ -14,5 +14,5 @@ Languages: C++, Python, Rust, JavaScript
 
 Experience: Open Source, DeFi, Low-Level Programming, Systems & Network Programming, Data Engineering
 
-📫 Reach me via social media (preferably Telegram).
+📫 Reach me via social media (preferably Twitter).
 
